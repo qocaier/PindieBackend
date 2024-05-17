@@ -1,3 +1,5 @@
 node_modules
-.DS_Store
-.vs
+/.gitignore
+/.vs
+package.json
+package-lock.json
