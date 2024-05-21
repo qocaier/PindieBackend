@@ -1,5 +1,5 @@
-# Ссылка на репозиторий с фронтендом: https://github.com/qocaier/PindieFrontend
+# CСЃС‹Р»РєР° РЅР° СЂРµРїРѕР·РёС‚РѕСЂРёР№ СЃ С„СЂРѕРЅС‚РµРЅРґРѕРј: https://github.com/qocaier/PindieFrontend
 
-# Ссылка на домен фронтенда: https://verst.nomoredomainswork.ru/
+# CСЃС‹Р»РєР° РЅР° РґРѕРјРµРЅ С„СЂРѕРЅС‚РµРЅРґР°: https://verst.nomoredomainswork.ru/
 
-# IP-адрес: 158.160.150.140
+# IP-Р°РґСЂРµСЃ: 158.160.150.140
